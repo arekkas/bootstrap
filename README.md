@@ -1,5 +1,7 @@
 # [Jasny Bootstrap](http://jasny.github.io/bootstrap/) [![Build Status](https://secure.travis-ci.org/jasny/bootstrap.png)](http://travis-ci.org/jasny/bootstrap)[![devDependency Status](https://david-dm.org/jasny/bootstrap/dev-status.png)](https://david-dm.org/jasny/bootstrap#info=devDependencies)
 
+[![Join the chat at https://gitter.im/arekkas/bootstrap](https://badges.gitter.im/arekkas/bootstrap.svg)](https://gitter.im/arekkas/bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Jasny Bootstrap is an extension of the famous [Twitter Bootstrap](http://getbootstrap.com/), adding the following components:
 
 * [Button labels](http://jasny.github.io/bootstrap/css/#buttons-labels)
